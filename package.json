@@ -1,0 +1,27 @@
+{
+  "name": "ci-cd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/King0625/ci-cd-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/King0625/ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/King0625/ci-cd-test#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "ioredis": "^4.17.3",
+    "mysql2": "^2.2.5"
+  }
+}
